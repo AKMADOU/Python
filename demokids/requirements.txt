@@ -1,0 +1,6 @@
+###### Requirements without Version Specifiers ######
+pygame
+pgzero
+tk
+gTTS
+PyQt5
